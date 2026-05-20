@@ -36,10 +36,5 @@ This project breaks down the data through several analytical steps:
 3. **Distribution Analysis:** Examining the distribution of TDP (power draw) across different performance tiers.
 4. **Anomalies & Outlier Detection:** Using **Z-scores** to find "unusual" values—such as GPUs that offer incredibly high clock speeds for an unexpectedly low price point, or over-priced low-spec cards.
 
----
 
-## 📈 Example Visualizations
-Here are some of the key insights visualized from the notebook:
 
-![Price vs VRAM Correlation](images/price_vs_vram.png)
-![TDP Power Distribution](images/tdp_distribution.png)
