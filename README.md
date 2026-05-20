@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahmed2710s/gpu_dataset/blob/main/path/to/GPUData.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ahmed2710s/gpu_dataset/blob/main/GPUData.ipynb)
 # 🎮 GPU Performance & Pricing - Data Analysis Project
 
 ## 📊 Project Overview
